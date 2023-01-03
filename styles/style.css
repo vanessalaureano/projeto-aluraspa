@@ -139,4 +139,34 @@ nav ul li a:hover {
 }
 #cupom button:hover {
   background-color: #5F7161;
+}
+
+#curiosidades {
+  padding: 1rem;
+  text-align: center;
+  margin: 5px;
+}
+#curiosidades h3 {
+  color: #5F7161;
+  font-size: 1.2rem;
+}
+#curiosidades h4 {
+  color: #6D8B74;
+  font-size: 1rem;
+}
+#curiosidades p {
+  margin-top: 5px;
+  color: #5F7161;
+}
+
+footer {
+  text-align: center;
+  font-size: 1.5rem;
+  border-top: 2px solid #5F7161;
+  margin-top: 1rem;
+  padding: 1.2rem;
+  background: linear-gradient(to left, #5F7161, #6D8B74, #EFEAD8, #6D8B74, #5F7161);
+}
+footer i {
+  color: red;
 }/*# sourceMappingURL=style.css.map */
