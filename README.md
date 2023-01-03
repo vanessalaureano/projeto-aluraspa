@@ -1,2 +1,2 @@
 # projeto-aluraspa
- Projeto Alura Spa | SASS | Alura
+ Projeto <a href="https://vanessalaureano.github.io/projeto-aluraspa/">Alura Spa</a> | SASS | Alura
